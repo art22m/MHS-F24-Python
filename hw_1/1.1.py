@@ -1,9 +1,14 @@
 import sys
 
 
-def number_lines(input_stream):
-    for line_number, line in enumerate(input_stream, start=1):
-        print(f"{line_number}\t{line}", end='')
+def number_lines(lines):
+    num = 0
+    for line in lines:
+        if len(line.strip()) == 0:
+            print(f"\t{line}", end='')
+            continue
+        num += 1
+        print(f"\t{num}\t{line}", end='')
 
 
 def main():
