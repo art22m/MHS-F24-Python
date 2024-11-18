@@ -3,7 +3,7 @@ import sys
 
 def process_file(filename, n, print_file_name):
     try:
-        with open(filename) as file:
+        with open(filename, "r") as file:
             lines = file.readlines()
             if print_file_name:
                 print(f"==> {filename} <==")
