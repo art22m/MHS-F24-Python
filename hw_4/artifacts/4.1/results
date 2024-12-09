@@ -1,0 +1,3 @@
+Fib seq time: 1.4889s
+Fib threads time: 1.4064s
+Fib process time: 0.2960s
