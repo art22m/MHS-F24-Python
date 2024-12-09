@@ -1,0 +1,21 @@
+message >>> test1
+[2024-12-10 00:21:32,434][INFO] (a) got message: test1
+[2024-12-10 00:21:32,434][INFO] (a) send message: test1
+[2024-12-10 00:21:32,435][INFO] (b) got message: test1
+[2024-12-10 00:21:32,437][INFO] (b) encoded message: grfg1
+[2024-12-10 00:21:32,437][INFO] (b) send message: grfg1
+
+message >>> test2
+message >>> test3
+[2024-12-10 00:21:42,445][INFO] (a) got message: test2
+[2024-12-10 00:21:42,445][INFO] (a) send message: test2
+[2024-12-10 00:21:42,445][INFO] (b) got message: test2
+[2024-12-10 00:21:42,446][INFO] (b) encoded message: grfg2
+[2024-12-10 00:21:42,446][INFO] (b) send message: grfg2
+[2024-12-10 00:21:47,449][INFO] (a) got message: test3
+[2024-12-10 00:21:47,450][INFO] (a) send message: test3
+[2024-12-10 00:21:47,450][INFO] (b) got message: test3
+[2024-12-10 00:21:47,451][INFO] (b) encoded message: grfg3
+[2024-12-10 00:21:47,451][INFO] (b) send message: grfg3
+
+message >>> [2024-12-10 00:21:51,334][INFO] the end
