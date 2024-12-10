@@ -1,0 +1,72 @@
+thread_pool with n_jobs=1 takes 0.8809s
+process_pool with n_jobs=1 takes 0.8993s
+---
+thread_pool with n_jobs=2 takes 0.8202s
+process_pool with n_jobs=2 takes 0.4559s
+---
+thread_pool with n_jobs=3 takes 0.8271s
+process_pool with n_jobs=3 takes 0.3280s
+---
+thread_pool with n_jobs=4 takes 0.8274s
+process_pool with n_jobs=4 takes 0.2606s
+---
+thread_pool with n_jobs=5 takes 0.8309s
+process_pool with n_jobs=5 takes 0.2150s
+---
+thread_pool with n_jobs=6 takes 0.8401s
+process_pool with n_jobs=6 takes 0.1915s
+---
+thread_pool with n_jobs=7 takes 0.8427s
+process_pool with n_jobs=7 takes 0.2125s
+---
+thread_pool with n_jobs=8 takes 0.8527s
+process_pool with n_jobs=8 takes 0.1863s
+---
+thread_pool with n_jobs=9 takes 0.8689s
+process_pool with n_jobs=9 takes 0.1807s
+---
+thread_pool with n_jobs=10 takes 0.8568s
+process_pool with n_jobs=10 takes 0.1759s
+---
+thread_pool with n_jobs=11 takes 0.8618s
+process_pool with n_jobs=11 takes 0.1770s
+---
+thread_pool with n_jobs=12 takes 0.8425s
+process_pool with n_jobs=12 takes 0.1772s
+---
+thread_pool with n_jobs=13 takes 0.8524s
+process_pool with n_jobs=13 takes 0.1848s
+---
+thread_pool with n_jobs=14 takes 0.8439s
+process_pool with n_jobs=14 takes 0.1852s
+---
+thread_pool with n_jobs=15 takes 0.8447s
+process_pool with n_jobs=15 takes 0.1879s
+---
+thread_pool with n_jobs=16 takes 0.8292s
+process_pool with n_jobs=16 takes 0.1919s
+---
+thread_pool with n_jobs=17 takes 0.8412s
+process_pool with n_jobs=17 takes 0.1979s
+---
+thread_pool with n_jobs=18 takes 0.8275s
+process_pool with n_jobs=18 takes 0.2105s
+---
+thread_pool with n_jobs=19 takes 0.8312s
+process_pool with n_jobs=19 takes 0.2012s
+---
+thread_pool with n_jobs=20 takes 0.8520s
+process_pool with n_jobs=20 takes 0.2063s
+---
+thread_pool with n_jobs=21 takes 0.8332s
+process_pool with n_jobs=21 takes 0.2202s
+---
+thread_pool with n_jobs=22 takes 0.8572s
+process_pool with n_jobs=22 takes 0.2353s
+---
+thread_pool with n_jobs=23 takes 0.8320s
+process_pool with n_jobs=23 takes 0.2197s
+---
+thread_pool with n_jobs=24 takes 0.8376s
+process_pool with n_jobs=24 takes 0.2247s
+---
