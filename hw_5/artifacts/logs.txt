@@ -1,0 +1,6 @@
+python3 5.1.py 5 ./artifacts                                                                         00:11:25
+downloaded ./artifacts/image_1.jpg
+downloaded ./artifacts/image_3.jpg
+downloaded ./artifacts/image_2.jpg
+downloaded ./artifacts/image_5.jpg
+downloaded ./artifacts/image_4.jpg
